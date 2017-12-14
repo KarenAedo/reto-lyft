@@ -32,10 +32,28 @@
 	padding: 1em;
 	background: #fff;
 }
+/*----sign up two---*/
 #signUp{
 	width: 100%;
 	height: 526px;
 	background-color: #fff;
+	text-align: center;
+	padding-top: 2em;
+}
+
+
+/*----Verify phone number----*/
+.verifyPhone{
+	width: 100%;
+	height: 526px;
+	text-align: center;
+	padding-top: 2em;
+}
+
+/*----sign up two---*/
+.signUpTwo{
+	width: 100%;
+	height: 526px;
 	text-align: center;
 	padding-top: 2em;
 }
